@@ -1,12 +1,13 @@
 ## Human Anatomy Of Torino
 
-You can use the [editor on GitHub](https://github.com/menestrello82/humananatomyoftorino/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pagina dedicata alla collezione di materiale utile ai laboratori didattici ed al ripasso dell'Anatomia Umnana.
 
 ### Members
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Il materiale é curato da:
+**Dott.Vittorio Monasterolo**, responsabile della storia Sala Settoria presso il Palazzo degli Istituti Anatomici dell'Università di Torino.
+**Dott. Corrado Calì**, docente di Anatomia Umana presso l'Università di Torino.
+
 
 ```markdown
 Syntax highlighted code block
