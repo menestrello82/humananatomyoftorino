@@ -1,38 +1,19 @@
-## Human Anatomy Of Torino
+<img align="left" width="50" src="https://user-images.githubusercontent.com/61550914/177590793-dc8106f9-7895-4689-bff5-8e01a8de1346.gif"> <img align="right" src="https://user-images.githubusercontent.com/61550914/177585413-3402325f-d691-4582-b3a6-c2389e8df03c.svg" width="50">
 
-Pagina dedicata alla collezione di materiale utile ai laboratori didattici ed al ripasso dell'Anatomia Umnana.
+<p align="center">
 
-### Members
+# Anatomia Umana Dell'Università Degli Studi di Torino
 
-Il materiale é curato da:
-**Dott.Vittorio Monasterolo**, responsabile della storia Sala Settoria presso il Palazzo degli Istituti Anatomici dell'Università di Torino.
-**Dott. Corrado Calì**, docente di Anatomia Umana presso l'Università di Torino.
+</p>
+
+## Pagina dedicata alla collezione di materiale utile ai laboratori didattici ed al ripasso dell'Anatomia Umana.
+<img align="center" height="200" scr="https://user-images.githubusercontent.com/61550914/177597858-405d15cc-3e2e-4c23-beee-3eae9b274bba.jpg">
 
 
-```markdown
-Syntax highlighted code block
 
-# Calì
-## Monasterolo
-### Vercelli
 
-- 1
-- 2
+### Curatori
 
-1. 3
-2. 4
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/menestrello82/humananatomyoftorino/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Il materiale é stato preparato da:
+- **Dott.Vittorio Monasterolo**, responsabile della storia Sala Settoria presso il Palazzo degli Istituti Anatomici dell'Università di Torino.
+- **Dott. Corrado Calì**, docente di Anatomia Umana presso l'Università di Torino.
