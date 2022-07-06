@@ -1,25 +1,25 @@
-## Welcome to GitHub Pages
+## Human Anatomy Of Torino
 
 You can use the [editor on GitHub](https://github.com/menestrello82/humananatomyoftorino/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Members
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Calì
+## Monasterolo
+### Vercelli
 
-- Bulleted
-- List
+- 1
+- 2
 
-1. Numbered
-2. List
+1. 3
+2. 4
 
 **Bold** and _Italic_ and `Code` text
 
