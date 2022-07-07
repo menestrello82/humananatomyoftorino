@@ -12,4 +12,6 @@ Il materiale é stato preparato da:
 - **Dott.Vittorio Monasterolo**, responsabile della storia Sala Settoria presso il Palazzo degli Istituti Anatomici dell'Università di Torino.
 - **Dott. Corrado Calì**, docente di Anatomia Umana presso l'Università di Torino.
 
+[Preparati di Neuroanatomia](/neurofoto.md)
+
 Website under construction
