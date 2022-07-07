@@ -9,8 +9,11 @@ Pagina dedicata alla collezione di materiale utile ai laboratori didattici ed al
 ### Curatori
 
 Il materiale é stato preparato da:
-- **Dott.Vittorio Monasterolo**, responsabile della storia Sala Settoria presso il Palazzo degli Istituti Anatomici dell'Università di Torino.
-- **Dott. Corrado Calì**, docente di Anatomia Umana presso l'Università di Torino.
+- [**Dott.Vittorio Monasterolo**](https://medchirurgia.campusnet.unito.it/do/docenti.pl/Alias?vittorio.monasterolo#tab-profilo), responsabile della storia [Sala Settoria](https://www.neuroscienze.unito.it/do/home.pl/View?doc=sala_settoria.html) presso il Palazzo degli Istituti Anatomici dell'Università di Torino.
+- [**Dott. Corrado Calì**](https://www.unito.it/persone/ccali), docente di Anatomia Umana presso l'Università di Torino.
+
+### Dove siamo
+Il [Palazzo degli Istituti Anatomici](https://www.museotorino.it/view/s/8dd8b3d95949430390ca203f2a53e15c) di trova in [Corso Massimo D'Azeglio 52](https://goo.gl/maps/8WA4r6QmKuAmRbNh7)
 
 [Preparati di Neuroanatomia](/neurofoto.md)
 
